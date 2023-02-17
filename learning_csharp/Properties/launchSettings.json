@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "learning_csharp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
